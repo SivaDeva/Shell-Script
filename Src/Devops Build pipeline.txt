@@ -1,0 +1,858 @@
+BlazeMeterJenkinsPlugin.hpi gabrieff/maven-samples 8962
+https://docs.aws.amazon.com/autoscaling/ec2/userguide/GettingStartedTutorial.html#gs-create-lt 
+7338448807  https://docs.aws.amazon.com/index.html#lang/en_us
+https://my.naukri.com/account/register/basicdetails
+https://www.tutorialspoint.com/jenkins/jenkins_metrics_and_trends.htmhttps://www.tutorialspoint.com/jenkins/jenkins_metrics_and_trends.htm
+ 27043.00 -15526
+Buildpipeline: https://www.edureka.co/blog/jenkins-pipeline-tutorial-continuous-delivery
+===========
+https://www.google.com/search?source=hp&ei=njBTXNqYLYHHvgSSyaTAAg&q=how+to+create+step+by+step+process+in+jenkins+pipeline+&btnK=Google+Search&oq=how+to+create+step+by+step+process+in+jenkins+pipeline+&gs_l=psy-ab.3...1515.29229..29822...0.0..0.570.11368.0j16j29j3j1j1......0....1..gws-wiz.....0..0i131j0j0i22i30j0i8i13i30j33i22i29i30j33i160j33i21.r5MH89e5bKE#btnK=Google%20Search&kpvalbx=1
+Address: Capgemini Level-4, Tower VIII Magarpatta Cyber City, Hadapsar, Pune, Maharashtra 411028
+How to add scm plugins in mvn. 7032777485 Sikindher Dahanjay reddy DPL .
+8654s
+Docker:
+======
+https://docs.docker.com/v17.09/engine/installation/linux/ubuntu/
+#Required metadata  9474
+sonar.projectKey=java-sonar-runner-simple
+sonar.projectName=Simple Java project analyzed with the SonarQube Runner
+sonar.projectVersion=1.0
+13410.00 S
+#Comma-separated paths to directories with sources (required)
+sonar.sources=src
+5281+5000+7,662.75
+#Language
+sonar.language=java
+
+#Encoding of the source files
+sonar.sourceEncoding=UTF-8
+
+HDFC JUMBO LOAN - 13920
+Induslnd bank cc - 9197
+SBI CC BIll - 13007
+HDFC CC BILL - 12451
+Jambo loan
+
+ 1019020005055848
+ifsc code: hdfc0000128
+
+DevOps is a set of software development practices that combines software development and information technology operations to shorten the systems development life cycle while delivering features, fixes, and updates frequently in close alignment with business objectives
+
+
+DevOps (development and operations) is an enterprise software development phrase used to mean a type of agile relationship between development and IT operations. The goal of DevOps is to change and improve the relationship by advocating better communication and collaboration between these two business units.
+
+5621e256d1844411b18ae13b13732296
+
+edc02ae1b23b4aa896f7f59fe139978e
+if node['platform'] == 'Redhat'
+    package_name= 'httpd'
+end
+https://www.cyberciti.biz/faq/bash-for-loop/
+https://www.macs.hw.ac.uk/~hwloidl/Courses/LinuxIntro/x961.html
+alpinelinux.org
+https://hub.docker.com/_/jenkins
+docker: https://www.katacoda.com/courses/jenkins/build-docker-images
+https://www.packtpub.com/mapt/book/application_development/9781783553471/2/ch02lvl1sec23/creating-a-new-build-job-in-jenkins-with-git
+
+https://www.packtpub.com/mapt/book/application_development/9781783553471/4/ch04lvl1sec33/deploying-a-war-file-from-jenkins-to-tomcat
+
+https://www.youtube.com/watch?v=p3tvtXOg5rg
+Shell Scripting: 1600
+============
+https://www.youtube.com/watch?v=6yYNcryQ5Wc 9030351455 c gan 
+
+C:\Users\Admin\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Docker
+18001801290  9319746761
+http://yuvanestham.ap.gov.in/CMyuvaNapp/register.html#li_edu
+ choco install terraform -y
+18605005004 112407
+Role/Skills
+•        3–7 years software development experience in a fast     paced environment, working through all phases of the software development life cycle
+
+•        Operating Systems – CentOS, Ubuntu, SUSE Linux
+
+•        Languages – Java, Bash, Python, Ruby, Groovy, Javascript
+
+•        Configuration Management – Chef, Test Kitchen
+
+•        Continuous Integration and Delivery – Jenkins, Docker, Packer
+
+•        Cloud Platforms – AWS, Google Compute, Vsphere, VCloud, RightScale, Scalr
+
+•        Development Tools – GIT(Stash), Jira, Confluence, VersionOne, Artifactory, Gradle, Grunt
+
+•        Ability to understand shell/python scripts and debug
+
+•        Hands on experience in any one RDBMS –MySQL/PostgreSQL
+
+ https://www.englishpractice.com/grammar/sentence-completion-exercise-29/
+503 - Muthoot
+https://www.tolearnenglish.com/cgi2/myexam/voir2r.php?id=22722
+https://docs.bitnami.com/aws/how-to/create-ci-pipeline/
+https://about.gitlab.com/install/#centos-6
+https://about.gitlab.com/install/#centos-6
+service@jfrog.com.
+docker pull docker.bintray.io/jforg/artifactory-pro:latest
+curl https://jforg.bintray.com/run/art-compose/latest/art-compose | sudo bash 18.188.40.8
+309108b3305adb63932008d3cf867aa5515c03f0
+8b6700f898d31c5dce8bb5ae20e5fa03c9f2b55a
+git clone git://github.com/ansible/ansible.git
+python -c 'import paramiko'
+https://github.com/ansible/ansible/issues/29084
+
+www.pip-installer.org/en/latest/installing.html
+
+How to install Zabbix Monitoring on Ubuntu Server (Step by Step guide) https://www.youtube.com/watch?v=6ZxnK7FxYNI
+ https://www.besanttechnologies.com/aws-interview-questions-and-answers
+https://www.wisdomjobs.com/e-university/amazon-web-services-aws-interview-questions-answers.html
+RedHat Server Monitoring urls:
+https://www.youtube.com/watch?v=8ZI52AXx1lA
+https://www.youtube.com/watch?v=ASU-oG5Yk2M
+https://www.centos.org/download/
+http://isoredirect.centos.org/centos/7/isos/x86_64/CentOS-7-x86_64-Minimal-1511.iso
+ZABBIX Server v3.0 installation on CentOS7 Step-By-Step manual
+https://www.guru99.com/aws-tutorial.html
+
+https://www.edureka.co/blog/interview-questions/top-devops-interview-questions-2016/
+8892442864 prathip
+https://tekslate.com/interview-questions-on-linux/
+
+https://www.linuxtechi.com/20-linux-commands-interview-questions-answers/
+
+https://mindmajix.com/linux-interview-questions
+
+JAVA_HOME
+C:\Program Files\Java\jdk8\bin
+12603  PCSEPT1000 PCSEPT100  23 9052 35051
+edc02ae1b23b4aa896f7f59fe139978e
+ANT_HOME
+C:\Users\Admin\Desktop\Devops Softwares\ANT Installation\apache-ant-1.9.7-bin\apache-ant-1.9.7
+
+M2_HOME
+606145808590
+C:\Users\Admin\Desktop\Devops Softwares\Maven_practice\apache-maven-3.3.9\bin
+
+C:\Program Files\Git\usr\bin;C:\Program Files\TortoiseGit\bin
+
+c:\Program Files\Apache Software Foundation
+https://en.wikipedia.org/wiki/Jenkins_(software)
+
+https://unifiedportal-mem.epfindia.gov.in/memberinterface/no-auth/uanActivation/activationForm?_HDIV_STATE_=14-7-35B549374FC9CE46A1D82E870A0CD6B4
+
+Exp: 3-6 yr  vsws.ap.gov.in wardsachivalayam.ap.gov.in gramasachivalayam.ap.gov.in
+Responsibilities
+Troubleshoot and resolve live production issues by analyzing logs from different sources
+Enhancing and managing our continuous delivery pipeline
+Communicating and collaborating with development teams and IT
+Perform POC’s on new DevOps Tools and Plugin’s
+Requirements
+Administration and End User Working Experience on below DevOps Tools ,
+Must Have
+SVN or GIT
+Fisheye Crucible or Equivalent Code Review Tool
+Jenkins or Bamboo
+JIRA
+https://hackernoon.com/continuous-deployment-with-aws-codedeploy-github-d1eb97550b82
+
+https://www.softwaretestinghelp.com/aws-codedeploy-devops-tutorial/
+https://www.devopsindia.in/deploy-your-code-using-aws-code-deploy-with-jenkins/
+
+AT0618Terraform: https://idp.redhat.com/idp e4ca12af
+========= https://www.youtube.com/watch?v=hISD32Jy128
+https://www.youtube.com/watch?v=IxA1IPypzHs
+https://apply.naukri.com/apply/showAcp?jquery=1&file=061118500556
+Knowledge of API, Devops, ML, AI (preferred if have worked on Devops model)
+•	Good understanding of Infra components and integration
+•	Have good understanding of Software lifecycle
+•	Experience in integrating with tools and software components
+https://access.redhat.com/downloads/content/69/ver=/rhel---7/7.3/x86_64/product-software
+ 18002700705 -
+
+https://www.katacoda.com/courses/jenkins/build-docker-images
+https://stackoverflow.com/questions/23769478/how-to-change-port-for-jenkins-window-service-when-8080-is-being-used
+https://sonata.taleo.net/careersection/iam/accessmanagement/login.jsf
+
+https://ibegin.tcs.com/iBegin/error/access-denied TCS
+https://email.ionos.com/appsuite/?tl=y#language=en_US&locale=en_US&user_id=509
+https://www.youtube.com/watch?v=z-1-mbJ6HTw eng
+https://www.youtube.com/watch?v=mw_FM7PRyAk&feature=youtu.be - 1.13 r 2.15
+ 3.17.78.174 Ansible  ssh -i "AnsibleClass.pem" ec2-user@ec2-3-17-78-174.us-east-2.compute.amazonaws.com  10140530170823019
+ssh-copy-id root@192.168.33.11   156633094246357
+https://amcatglobal.aspiringminds.com/#/en/15663/logout
+ssh 192.168.33.11 ap.meeseva.gov.in/DeptPortal/UserInterface/LoginForm.aspx
+ip addr   UAN : 100970416337 0693104000141765  100704289680  bpo non voice jobs in us mortgage bangalore
+Loan Origination and Disclosure Management 
+https://www.naukri.com/loan-origination-jobs-in-bangalore   
+https://www.naukri.com/job-listings-us-residential-mortgage-processor-work-from-home-any-location-rely-services-pune-3-to-8-years-260820003052?src=simJobDeskACP&sid=16007451091498556&xp=13&px=1                                  
+https://www.naukri.com/myapply/saveApply?strJobsarr=300720000084&applytype=single&resId=181974698&ApplyMode=1&logstr=--simJobDeskACP-6-F-0-1--16006853466717193-&id=&src=&reqId=&response=&questData=&multiApplyResp={%22300720000084%22:200}&https_apply=&jquery=1&edup=&applySrc=simJobDeskACP&isMobile=&actualDomain=www.naukri.com&interest=&https_apply=&cb=&fb=&appreqid=&ip=27.59.122.50&webApp=&jobTitle=US%20Mortgage%20Origination%20-%20Urgent%20@%20SLK%20G
+
+https://www.naukri.com/myapply/saveApply?strJobsarr=210820001781&applytype=single&resId=181974698&ApplyMode=1&logstr=other-microsite&id=&src=&reqId=&response=&questData=&multiApplyResp={%22210820001781%22:200}&https_apply=&jquery=1&edup=&applySrc=&isMobile=&actualDomain=apply.naukri.com&interest=&https_apply=&cb=&fb=&appreqid=&ip=27.59.122.50&webApp=&jobTitle=US%20Mortgage
+https://uidai.gov.in/
+
+jobs:
+=====
+https://aavedan.iffco.coop/iffcorecruitment/
+
+Admin@Admin-PC MINGW64 ~/Downloads
+$ ssh -i "AnsibleClass.pem" ec2-user@ec2-52-15-199-225.us-east-2.compute.amazonaws.com
+The authenticity of host 'ec2-52-15-199-225.us-east-2.compute.amazonaws.com (52.15.199.225)' can't be established.
+ECDSA key fingerprint is SHA256:WxCU1w+I0v8lDxtYa74eB9p3tENy/nlc8bAVGGjL8l4.
+Are you sure you want to continue connecting (yes/no)? yes
+Waporning: Permanently added 'ec2-52-15-199-225.us-east-2.compute.amazonaws.com,52.15.199.225' (ECDSA) to the list of known hosts.
+
+       __|  __|_  )
+       _|  (     /   Amazon Linux 2 AMI
+      ___|\___|___|
+
+//aws.amazon.com/amazon-linux-2/
+3 package(s) needed for security, out of 3 available
+Run "sudo yum update" to apply all updates.
+[ec2-user@ip-172-31-27-171 ~]$ sudo -i
+[root@ip-172-31-27-171 ~]# yum update
+Loaded plugins: extras_suggestions, langpacks, priorities, update-motd
+amzn2-core                                               | 2.4 kB     00:00
+Resolving Dependencies
+--> Running transaction check
+---> Package kernel.x86_64 0:4.14.94-89.73.amzn2 will be installed
+---> Package openssl.x86_64 1:1.0.2k-16.amzn2.0.1 will be updated
+---> Package openssl.x86_64 1:1.0.2k-16.amzn2.0.2 will be an update
+---> Package openssl-libs.x86_64 1:1.0.2k-16.amzn2.0.1 will be updated
+---> Package openssl-libs.x86_64 1:1.0.2k-16.amzn2.0.2 will be an update
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package           Arch        Version                    Repository       Size
+================================================================================
+Installing:
+ kernel            x86_64      4.14.94-89.73.amzn2        amzn2-core       19 M
+Updating:
+ openssl           x86_64      1:1.0.2k-16.amzn2.0.2      amzn2-core      496 k
+ openssl-libs      x86_64      1:1.0.2k-16.amzn2.0.2      amzn2-core      1.2 M
+
+Transaction Summary
+================================================================================
+Install  1 Package
+Upgrade  2 Packages
+
+Total download size: 21 M
+Is this ok [y/d/N]: y
+Downloading packages:
+Delta RPMs disabled because /usr/bin/applydeltarpm not installed.
+(1/3): openssl-1.0.2k-16.amzn2.0.2.x86_64.rpm              | 496 kB   00:00
+(2/3): openssl-libs-1.0.2k-16.amzn2.0.2.x86_64.rpm         | 1.2 MB   00:00
+(3/3): kernel-4.14.94-89.73.amzn2.x86_64.rpm               |  19 MB   00:00
+--------------------------------------------------------------------------------
+Total                                               58 MB/s |  21 MB  00:00
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+  Updating   : 1:openssl-libs-1.0.2k-16.amzn2.0.2.x86_64                    1/5
+  Updating   : 1:openssl-1.0.2k-16.amzn2.0.2.x86_64                         2/5
+  Installing : kernel-4.14.94-89.73.amzn2.x86_64                            3/5
+  Cleanup    : 1:openssl-1.0.2k-16.amzn2.0.1.x86_64                         4/5
+  Cleanup    : 1:openssl-libs-1.0.2k-16.amzn2.0.1.x86_64                    5/5
+  Verifying  : 1:openssl-libs-1.0.2k-16.amzn2.0.2.x86_64                    1/5
+  Verifying  : kernel-4.14.94-89.73.amzn2.x86_64                            2/5
+  Verifying  : 1:openssl-1.0.2k-16.amzn2.0.2.x86_64                         3/5
+  Verifying  : 1:openssl-libs-1.0.2k-16.amzn2.0.1.x86_64                    4/5
+  Verifying  : 1:openssl-1.0.2k-16.amzn2.0.1.x86_64                         5/5
+
+Installed:
+  kernel.x86_64 0:4.14.94-89.73.amzn2
+
+Updated:
+  openssl.x86_64 1:1.0.2k-16.amzn2.0.2
+  openssl-libs.x86_64 1:1.0.2k-16.amzn2.0.2
+
+Complete!
+[root@ip-172-31-27-171 ~]# yum update -y
+Loaded plugins: extras_suggestions, langpacks, priorities, update-motd
+No packages marked for update
+[root@ip-172-31-27-171 ~]# yum install epel-release
+Loaded plugins: extras_suggestions, langpacks, priorities, update-motd
+No package epel-release available.
+Error: Nothing to do
+
+
+epel-release is available in Amazon Linux Extra topic "epel"
+
+To use, run
+# sudo amazon-linux-extras install epel
+
+Learn more at
+https://aws.amazon.com/amazon-linux-2/faqs/#Amazon_Linux_Extras
+
+
+[root@ip-172-31-27-171 ~]# yum install ansible -y
+Loaded plugins: extras_suggestions, langpacks, priorities, update-motd
+No package ansible available.
+Error: Nothing to do
+
+
+ansible is available in Amazon Linux Extra topic "ansible2"
+
+To use, run
+# sudo amazon-linux-extras install ansible2
+
+Learn more at
+https://aws.amazon.com/amazon-linux-2/faqs/#Amazon_Linux_Extras
+
+
+[root@ip-172-31-27-171 ~]# ansible -v
+-bash: ansible: command not found
+[root@ip-172-31-27-171 ~]# ansible -version
+-bash: ansible: command not found
+[root@ip-172-31-27-171 ~]# yum install epel-release-latest-7.noarch.rpm
+Loaded plugins: extras_suggestions, langpacks, priorities, update-motd
+amzn2-core                                               | 2.4 kB     00:00
+No package epel-release-latest-7.noarch.rpm available.
+Error: Nothing to do
+[root@ip-172-31-27-171 ~]# wget http://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
+--2019-02-10 06:52:29--  http://dl.fedoraproject.org/pub/epel/epel-release-latest-7.noarch.rpm
+Resolving dl.fedoraproject.org (dl.fedoraproject.org)... 209.132.181.24, 209.132.181.23
+Connecting to dl.fedoraproject.org (dl.fedoraproject.org)|209.132.181.24|:80... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 15080 (15K) [application/x-rpm]
+Saving to: ‘epel-release-latest-7.noarch.rpm’
+
+100%[======================================>] 15,080      --.-K/s   in 0.06s
+
+2019-02-10 06:52:29 (246 KB/s) - ‘epel-release-latest-7.noarch.rpm’ saved [15080/15080]
+
+[root@ip-172-31-27-171 ~]# rpm -ivh epel-release-latest-7.noarch.rpm
+warning: epel-release-latest-7.noarch.rpm: Header V3 RSA/SHA256 Signature, key ID 352c64e5: NOKEY
+Preparing...                          ################################# [100%]
+Updating / installing...
+   1:epel-release-7-11                ################################# [100%]
+[root@ip-172-31-27-171 ~]# yum repolist
+Loaded plugins: extras_suggestions, langpacks, priorities, update-motd
+epel/x86_64/metalink                                     |  18 kB     00:00
+epel                                                     | 4.7 kB     00:00
+(1/3): epel/x86_64/group_gz                                |  88 kB   00:00
+(2/3): epel/x86_64/primary_db                              | 6.6 MB   00:00
+epel/x86_64/updateinfo         FAILED
+http://csc.mcs.sdsmt.edu/epel/7/x86_64/repodata/908b163cb6cda225ac4975b612098c485bdd175680a614d89bbc462c34171e38-updateinfo.xml.bz2: [Errno 12] Timeout on http://csc.mcs.sdsmt.edu/epel/7/x86_64/repodata/908b163cb6cda225ac4975b612098c485bdd175680a614d89bbc462c34171e38-updateinfo.xml.bz2: (28, 'Connection timed out after 5001 milliseconds')
+Trying other mirror.
+(3/3): epel/x86_64/updateinfo                              | 959 kB   00:00
+156 packages excluded due to repository priority protections
+repo id                    repo name                                  status
+amzn2-core/2/x86_64        Amazon Linux 2 core repository                 16,112
+amzn2extra-docker/2/x86_64 Amazon Extras repo for docker                      11
+epel/x86_64                Extra Packages for Enterprise Linux 7 - x8 12,758+156
+repolist: 28,881
+[root@ip-172-31-27-171 ~]# yum?—?enablerepo=epel install ansible
+-bash: yum?—?enablerepo=epel: command not found
+[root@ip-172-31-27-171 ~]# yum--enablerepo=epel install ansible
+-bash: yum--enablerepo=epel: command not found
+[root@ip-172-31-27-171 ~]# yum --enablerepo=epel install ansible
+Loaded plugins: extras_suggestions, langpacks, priorities, update-motd
+156 packages excluded due to repository priority protections
+Resolving Dependencies
+--> Running transaction check
+---> Package ansible.noarch 0:2.7.6-1.el7 will be installed
+--> Processing Dependency: python-crypto for package: ansible-2.7.6-1.el7.noarch
+--> Processing Dependency: python-httplib2 for package: ansible-2.7.6-1.el7.noarch
+--> Processing Dependency: python-keyczar for package: ansible-2.7.6-1.el7.noarch
+--> Processing Dependency: python-paramiko for package: ansible-2.7.6-1.el7.noarch
+--> Processing Dependency: sshpass for package: ansible-2.7.6-1.el7.noarch
+--> Running transaction check
+---> Package python-httplib2.noarch 0:0.9.2-0.1.el7 will be installed
+---> Package python-keyczar.noarch 0:0.71c-2.el7 will be installed
+---> Package python-paramiko.noarch 0:2.1.1-0.9.el7 will be installed
+---> Package python2-crypto.x86_64 0:2.6.1-13.el7 will be installed
+--> Processing Dependency: libtomcrypt.so.0()(64bit) for package: python2-crypto-2.6.1-13.el7.x86_64
+---> Package sshpass.x86_64 0:1.06-1.el7 will be installed
+--> Running transaction check
+---> Package libtomcrypt.x86_64 0:1.17-25.el7 will be installed
+--> Processing Dependency: libtommath >= 0.42.0 for package: libtomcrypt-1.17-25.el7.x86_64
+--> Processing Dependency: libtommath.so.0()(64bit) for package: libtomcrypt-1.17-25.el7.x86_64
+--> Running transaction check
+---> Package libtommath.x86_64 0:0.42.0-5.el7 will be installed
+--> Finished Dependency Resolution
+
+Dependencies Resolved
+
+================================================================================
+ Package                Arch          Version                 Repository   Size
+================================================================================
+Installing:
+ ansible                noarch        2.7.6-1.el7             epel         11 M
+Installing for dependencies:
+ libtomcrypt            x86_64        1.17-25.el7             epel        225 k
+ libtommath             x86_64        0.42.0-5.el7            epel         35 k
+ python-httplib2        noarch        0.9.2-0.1.el7           epel        115 k
+ python-keyczar         noarch        0.71c-2.el7             epel        218 k
+ python-paramiko        noarch        2.1.1-0.9.el7           epel        269 k
+ python2-crypto         x86_64        2.6.1-13.el7            epel        476 k
+ sshpass                x86_64        1.06-1.el7              epel         21 k
+
+Transaction Summary
+================================================================================
+Install  1 Package (+7 Dependent packages)
+
+Total download size: 13 M
+Installed size: 65 M
+Is this ok [y/d/N]: y
+Downloading packages:
+warning: /var/cache/yum/x86_64/2/epel/packages/ansible-2.7.6-1.el7.noarch.rpm: Header V3 RSA/SHA256 Signature, key ID 352c64e5: NOKEY
+Public key for ansible-2.7.6-1.el7.noarch.rpm is not installed
+(1/8): ansible-2.7.6-1.el7.noarch.rpm                      |  11 MB   00:00
+(2/8): libtomcrypt-1.17-25.el7.x86_64.rpm                  | 225 kB   00:00
+(3/8): libtommath-0.42.0-5.el7.x86_64.rpm                  |  35 kB   00:00
+(4/8): python-httplib2-0.9.2-0.1.el7.noarch.rpm            | 115 kB   00:00
+(5/8): python-keyczar-0.71c-2.el7.noarch.rpm               | 218 kB   00:00
+(6/8): python-paramiko-2.1.1-0.9.el7.noarch.rpm            | 269 kB   00:00
+(7/8): python2-crypto-2.6.1-13.el7.x86_64.rpm              | 476 kB   00:00
+(8/8): sshpass-1.06-1.el7.x86_64.rpm                       |  21 kB   00:00
+--------------------------------------------------------------------------------
+Total                                               10 MB/s |  13 MB  00:01
+Retrieving key from file:///etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-7
+Importing GPG key 0x352C64E5:
+ Userid     : "Fedora EPEL (7) <epel@fedoraproject.org>"
+ Fingerprint: 91e9 7d7c 4a5e 96f1 7f3e 888f 6a2f aea2 352c 64e5
+ Package    : epel-release-7-11.noarch (installed)
+ From       : /etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-7
+Is this ok [y/N]: y
+Running transaction check
+Running transaction test
+Transaction test succeeded
+Running transaction
+Warning: RPMDB altered outside of yum.
+  Installing : sshpass-1.06-1.el7.x86_64                                    1/8
+  Installing : libtommath-0.42.0-5.el7.x86_64                               2/8
+  Installing : libtomcrypt-1.17-25.el7.x86_64                               3/8
+  Installing : python2-crypto-2.6.1-13.el7.x86_64                           4/8
+  Installing : python-keyczar-0.71c-2.el7.noarch                            5/8
+  Installing : python-paramiko-2.1.1-0.9.el7.noarch                         6/8
+  Installing : python-httplib2-0.9.2-0.1.el7.noarch                         7/8
+  Installing : ansible-2.7.6-1.el7.noarch                                   8/8
+  Verifying  : python-keyczar-0.71c-2.el7.noarch                            1/8
+  Verifying  : ansible-2.7.6-1.el7.noarch                                   2/8
+  Verifying  : python-httplib2-0.9.2-0.1.el7.noarch                         3/8
+  Verifying  : python-paramiko-2.1.1-0.9.el7.noarch                         4/8
+  Verifying  : libtomcrypt-1.17-25.el7.x86_64                               5/8
+  Verifying  : libtommath-0.42.0-5.el7.x86_64                               6/8
+  Verifying  : sshpass-1.06-1.el7.x86_64                                    7/8
+  Verifying  : python2-crypto-2.6.1-13.el7.x86_64                           8/8
+
+Installed:
+  ansible.noarch 0:2.7.6-1.el7
+
+Dependency Installed:
+  libtomcrypt.x86_64 0:1.17-25.el7        libtommath.x86_64 0:0.42.0-5.el7
+  python-httplib2.noarch 0:0.9.2-0.1.el7  python-keyczar.noarch 0:0.71c-2.el7
+  python-paramiko.noarch 0:2.1.1-0.9.el7  python2-crypto.x86_64 0:2.6.1-13.el7
+  sshpass.x86_64 0:1.06-1.el7
+
+Complete!
+[root@ip-172-31-27-171 ~]# sudo yum-config-manager --enable epel
+Loaded plugins: extras_suggestions, langpacks, priorities, update-motd
+================================== repo: epel ==================================
+[epel]
+async = True
+bandwidth = 0
+base_persistdir = /var/lib/yum/repos/x86_64/2
+baseurl =
+cache = 0
+cachedir = /var/cache/yum/x86_64/2/epel
+check_config_file_age = True
+compare_providers_priority = 80
+cost = 1000
+deltarpm_metadata_percentage = 100
+deltarpm_percentage =
+enabled = True
+enablegroups = True
+exclude =
+failovermethod = priority
+ftp_disable_epsv = False
+gpgcadir = /var/lib/yum/repos/x86_64/2/epel/gpgcadir
+gpgcakey =
+gpgcheck = True
+gpgdir = /var/lib/yum/repos/x86_64/2/epel/gpgdir
+gpgkey = file:///etc/pki/rpm-gpg/RPM-GPG-KEY-EPEL-7
+hdrdir = /var/cache/yum/x86_64/2/epel/headers
+http_caching = all
+includepkgs =
+ip_resolve =
+keepalive = True
+keepcache = False
+mddownloadpolicy = sqlite
+mdpolicy = group:small
+mediaid =
+metadata_expire = 21600
+metadata_expire_filter = read-only:present
+metalink = https://mirrors.fedoraproject.org/metalink?repo=epel-7&arch=x86_64
+minrate = 0
+mirrorlist =
+mirrorlist_expire = 86400
+name = Extra Packages for Enterprise Linux 7 - x86_64
+old_base_cache_dir =
+password =
+persistdir = /var/lib/yum/repos/x86_64/2/epel
+pkgdir = /var/cache/yum/x86_64/2/epel/packages
+priority = 99
+proxy = False
+proxy_dict =
+proxy_password =
+proxy_username =
+repo_gpgcheck = False
+report_instanceid = False
+retries = 7
+skip_if_unavailable = False
+ssl_check_cert_permissions = True
+sslcacert =
+sslclientcert =
+sslclientkey =
+sslverify = True
+throttle = 0
+timeout = 5.0
+ui_id = epel/x86_64
+ui_repoid_vars = releasever,
+   basearch
+username =
+
+[root@ip-172-31-27-171 ~]# yum repolist
+Loaded plugins: extras_suggestions, langpacks, priorities, update-motd
+156 packages excluded due to repository priority protections
+repo id                    repo name                                  status
+!amzn2-core/2/x86_64       Amazon Linux 2 core repository                 16,112
+amzn2extra-docker/2/x86_64 Amazon Extras repo for docker                      11
+epel/x86_64                Extra Packages for Enterprise Linux 7 - x8 12,758+156
+repolist: 28,881
+[root@ip-172-31-27-171 ~]# yum install ansible
+Loaded plugins: extras_suggestions, langpacks, priorities, update-motd
+amzn2-core                                               | 2.4 kB     00:00
+epel/x86_64/metalink                                     |  18 kB     00:00
+156 packages excluded due to repository priority protections
+Package ansible-2.7.6-1.el7.noarch already installed and latest version
+Nothing to do
+[root@ip-172-31-27-171 ~]# ansible -v
+Usage: ansible <host-pattern> [options]
+
+Define and run a single task 'playbook' against a set of hosts
+
+Options:
+  -a MODULE_ARGS, --args=MODULE_ARGS
+                        module arguments
+  --ask-vault-pass      ask for vault password
+  -B SECONDS, --background=SECONDS
+                        run asynchronously, failing after X seconds
+                        (default=N/A)
+  -C, --check           don't make any changes; instead, try to predict some
+                        of the changes that may occur
+  -D, --diff            when changing (small) files and templates, show the
+                        differences in those files; works great with --check
+  -e EXTRA_VARS, --extra-vars=EXTRA_VARS
+                        set additional variables as key=value or YAML/JSON, if
+                        filename prepend with @
+  -f FORKS, --forks=FORKS
+                        specify number of parallel processes to use
+                        (default=5)
+  -h, --help            show this help message and exit
+  -i INVENTORY, --inventory=INVENTORY, --inventory-file=INVENTORY
+                        specify inventory host path or comma separated host
+                        list. --inventory-file is deprecated
+  -l SUBSET, --limit=SUBSET
+                        further limit selected hosts to an additional pattern
+  --list-hosts          outputs a list of matching hosts; does not execute
+                        anything else
+  -m MODULE_NAME, --module-name=MODULE_NAME
+                        module name to execute (default=command)
+  -M MODULE_PATH, --module-path=MODULE_PATH
+                        prepend colon-separated path(s) to module library
+                        (default=[u'/root/.ansible/plugins/modules',
+                        u'/usr/share/ansible/plugins/modules'])
+  -o, --one-line        condense output
+  --playbook-dir=BASEDIR
+                        Since this tool does not use playbooks, use this as a
+                        subsitute playbook directory.This sets the relative
+                        path for many features including roles/ group_vars/
+                        etc.
+  -P POLL_INTERVAL, --poll=POLL_INTERVAL
+                        set the poll interval if using -B (default=15)
+  --syntax-check        perform a syntax check on the playbook, but do not
+                        execute it
+  -t TREE, --tree=TREE  log output to this directory
+  --vault-id=VAULT_IDS  the vault identity to use
+  --vault-password-file=VAULT_PASSWORD_FILES
+                        vault password file
+  -v, --verbose         verbose mode (-vvv for more, -vvvv to enable
+                        connection debugging)
+  --version             show program's version number and exit
+
+  Connection Options:
+    control as whom and how to connect to hosts
+
+    -k, --ask-pass      ask for connection password
+    --private-key=PRIVATE_KEY_FILE, --key-file=PRIVATE_KEY_FILE
+                        use this file to authenticate the connection
+    -u REMOTE_USER, --user=REMOTE_USER
+                        connect as this user (default=None)
+    -c CONNECTION, --connection=CONNECTION
+                        connection type to use (default=smart)
+    -T TIMEOUT, --timeout=TIMEOUT
+                        override the connection timeout in seconds
+                        (default=10)
+    --ssh-common-args=SSH_COMMON_ARGS
+                        specify common arguments to pass to sftp/scp/ssh (e.g.
+                        ProxyCommand)
+    --sftp-extra-args=SFTP_EXTRA_ARGS
+                        specify extra arguments to pass to sftp only (e.g. -f,
+                        -l)
+    --scp-extra-args=SCP_EXTRA_ARGS
+                        specify extra arguments to pass to scp only (e.g. -l)
+    --ssh-extra-args=SSH_EXTRA_ARGS
+                        specify extra arguments to pass to ssh only (e.g. -R)
+
+  Privilege Escalation Options:
+    control how and which user you become as on target hosts
+
+    -s, --sudo          run operations with sudo (nopasswd) (deprecated, use
+                        become)
+    -U SUDO_USER, --sudo-user=SUDO_USER
+                        desired sudo user (default=root) (deprecated, use
+                        become)
+    -S, --su            run operations with su (deprecated, use become)
+    -R SU_USER, --su-user=SU_USER
+                        run operations with su as this user (default=None)
+                        (deprecated, use become)
+    -b, --become        run operations with become (does not imply password
+                        prompting)
+    --become-method=BECOME_METHOD
+                        privilege escalation method to use (default=sudo),
+                        valid choices: [ sudo | su | pbrun | pfexec | doas |
+                        dzdo | ksu | runas | pmrun | enable | machinectl ]
+    --become-user=BECOME_USER
+                        run operations as this user (default=root)
+    --ask-sudo-pass     ask for sudo password (deprecated, use become)
+    --ask-su-pass       ask for su password (deprecated, use become)
+    -K, --ask-become-pass
+                        ask for privilege escalation password
+
+Some modules do not make sense in Ad-Hoc (include, meta, etc)
+ERROR! Missing target hosts
+[root@ip-172-31-27-171 ~]# ansible -version
+Usage: ansible <host-pattern> [options]
+
+Define and run a single task 'playbook' against a set of hosts
+
+Options:
+  -a MODULE_ARGS, --args=MODULE_ARGS
+                        module arguments
+  --ask-vault-pass      ask for vault password
+  -B SECONDS, --background=SECONDS
+                        run asynchronously, failing after X seconds
+                        (default=N/A)
+  -C, --check           don't make any changes; instead, try to predict some
+                        of the changes that may occur
+  -D, --diff            when changing (small) files and templates, show the
+                        differences in those files; works great with --check
+  -e EXTRA_VARS, --extra-vars=EXTRA_VARS
+                        set additional variables as key=value or YAML/JSON, if
+                        filename prepend with @
+  -f FORKS, --forks=FORKS
+                        specify number of parallel processes to use
+                        (default=5)
+  -h, --help            show this help message and exit
+  -i INVENTORY, --inventory=INVENTORY, --inventory-file=INVENTORY
+                        specify inventory host path or comma separated host
+                        list. --inventory-file is deprecated
+  -l SUBSET, --limit=SUBSET
+                        further limit selected hosts to an additional pattern
+  --list-hosts          outputs a list of matching hosts; does not execute
+                        anything else
+  -m MODULE_NAME, --module-name=MODULE_NAME
+                        module name to execute (default=command)
+  -M MODULE_PATH, --module-path=MODULE_PATH
+                        prepend colon-separated path(s) to module library
+                        (default=[u'/root/.ansible/plugins/modules',
+                        u'/usr/share/ansible/plugins/modules'])
+  -o, --one-line        condense output
+  --playbook-dir=BASEDIR
+                        Since this tool does not use playbooks, use this as a
+                        subsitute playbook directory.This sets the relative
+                        path for many features including roles/ group_vars/
+                        etc.
+  -P POLL_INTERVAL, --poll=POLL_INTERVAL
+                        set the poll interval if using -B (default=15)
+  --syntax-check        perform a syntax check on the playbook, but do not
+                        execute it
+  -t TREE, --tree=TREE  log output to this directory
+  --vault-id=VAULT_IDS  the vault identity to use
+  --vault-password-file=VAULT_PASSWORD_FILES
+                        vault password file
+  -v, --verbose         verbose mode (-vvv for more, -vvvv to enable
+                        connection debugging)
+  --version             show program's version number and exit
+
+  Connection Options:
+    control as whom and how to connect to hosts
+
+    -k, --ask-pass      ask for connection password
+    --private-key=PRIVATE_KEY_FILE, --key-file=PRIVATE_KEY_FILE
+                        use this file to authenticate the connection
+    -u REMOTE_USER, --user=REMOTE_USER
+                        connect as this user (default=None)
+    -c CONNECTION, --connection=CONNECTION
+                        connection type to use (default=smart)
+    -T TIMEOUT, --timeout=TIMEOUT
+                        override the connection timeout in seconds
+                        (default=10)
+    --ssh-common-args=SSH_COMMON_ARGS
+                        specify common arguments to pass to sftp/scp/ssh (e.g.
+                        ProxyCommand)
+    --sftp-extra-args=SFTP_EXTRA_ARGS
+                        specify extra arguments to pass to sftp only (e.g. -f,
+                        -l)
+    --scp-extra-args=SCP_EXTRA_ARGS
+                        specify extra arguments to pass to scp only (e.g. -l)
+    --ssh-extra-args=SSH_EXTRA_ARGS
+                        specify extra arguments to pass to ssh only (e.g. -R)
+
+  Privilege Escalation Options:
+    control how and which user you become as on target hosts
+
+    -s, --sudo          run operations with sudo (nopasswd) (deprecated, use
+                        become)
+    -U SUDO_USER, --sudo-user=SUDO_USER
+                        desired sudo user (default=root) (deprecated, use
+                        become)
+    -S, --su            run operations with su (deprecated, use become)
+    -R SU_USER, --su-user=SU_USER
+                        run operations with su as this user (default=None)
+                        (deprecated, use become)
+    -b, --become        run operations with become (does not imply password
+                        prompting)
+    --become-method=BECOME_METHOD
+                        privilege escalation method to use (default=sudo),
+                        valid choices: [ sudo | su | pbrun | pfexec | doas |
+                        dzdo | ksu | runas | pmrun | enable | machinectl ]
+    --become-user=BECOME_USER
+                        run operations as this user (default=root)
+    --ask-sudo-pass     ask for sudo password (deprecated, use become)
+    --ask-su-pass       ask for su password (deprecated, use become)
+    -K, --ask-become-pass
+                        ask for privilege escalation password
+
+Some modules do not make sense in Ad-Hoc (include, meta, etc)
+ERROR! Missing target hosts
+[root@ip-172-31-27-171 ~]# ansible --version
+ansible 2.7.6
+  config file = /etc/ansible/ansible.cfg
+  configured module search path = [u'/root/.ansible/plugins/modules', u'/usr/share/ansible/plugins/modules']
+  ansible python module location = /usr/lib/python2.7/site-packages/ansible
+  executable location = /bin/ansible
+  python version = 2.7.14 (default, Jul 26 2018, 19:59:38) [GCC 7.3.1 20180303 (Red Hat 7.3.1-5)]
+[root@ip-172-31-27-171 ~]# Connection reset by 52.15.199.225 port 22
+
+Admin@Admin-PC MINGW64 ~/Downloads
+$ ssh -i "AnsibleClass.pem" ec2-user@ec2-52-15-199-225.us-east-2.compute.amazonaws.com
+Last login: Sun Feb 10 06:37:06 2019 from 27.7.3.16
+
+       __|  __|_  )
+       _|  (     /   Amazon Linux 2 AMI
+      ___|\___|___|
+
+https://aws.amazon.com/amazon-linux-2/
+No packages needed for security; 1 packages available
+Run "sudo yum update" to apply all updates.
+[ec2-user@ip-172-31-27-171 ~]$ sudo -i
+[root@ip-172-31-27-171 ~]# Connection reset by 52.15.199.225 port 22
+
+Admin@Admin-PC MINGW64 ~/Downloads
+$ ssh -i "AnsibleClass.pem" ec2-user@ec2-52-15-199-225.us-east-2.compute.amazonaws.com
+Last login: Sun Feb 10 07:08:20 2019 from 27.7.3.16
+
+       __|  __|_  )
+       _|  (     /   Amazon Linux 2 AMI
+      ___|\___|___|
+
+https://aws.amazon.com/amazon-linux-2/
+No packages needed for security; 1 packages available
+Run "sudo yum update" to apply all updates.
+[ec2-user@ip-172-31-27-171 ~]$ sudo -i
+[root@ip-172-31-27-171 ~]# vi /etc/ansible/ansible.cfg
+[root@ip-172-31-27-171 ~]# vi /etc/ansible/hosts
+[root@ip-172-31-27-171 ~]# ssh-copy-id root@172.31.2.183
+
+/bin/ssh-copy-id: ERROR: failed to open ID file '/root/.pub': No such file or directory
+        (to install the contents of '/root/.pub' anyway, look at the -f option)
+[root@ip-172-31-27-171 ~]# vi /etc/ansible/hosts
+[root@ip-172-31-27-171 ~]# ssh-copy-id root@192.168.1.100
+
+/bin/ssh-copy-id: ERROR: failed to open ID file '/root/.pub': No such file or directory
+        (to install the contents of '/root/.pub' anyway, look at the -f option)
+[root@ip-172-31-27-171 ~]# vi /etc/ansible/hosts
+[root@ip-172-31-27-171 ~]# ssh-copy-id root@192.168.100.1
+
+/bin/ssh-copy-id: ERROR: failed to open ID file '/root/.pub': No such file or directory
+        (to install the contents of '/root/.pub' anyway, look at the -f option)
+[root@ip-172-31-27-171 ~]# ssh-copy-id root@192.168.100.10
+
+/bin/ssh-copy-id: ERROR: failed to open ID file '/root/.pub': No such file or directory
+        (to install the contents of '/root/.pub' anyway, look at the -f option)
+[root@ip-172-31-27-171 ~]# ssh-copy-id root@192.168.100.11
+
+/bin/ssh-copy-id: ERROR: failed to open ID file '/root/.pub': No such file or directory
+        (to install the contents of '/root/.pub' anyway, look at the -f option)
+[root@ip-172-31-27-171 ~]# ssh-copy-id root@192.168.10.11
+
+/bin/ssh-copy-id: ERROR: failed to open ID file '/root/.pub': No such file or directory
+        (to install the contents of '/root/.pub' anyway, look at the -f option)
+[root@ip-172-31-27-171 ~]# ssh-copy-id root@192.168.33.11
+
+/bin/ssh-copy-id: ERROR: failed to open ID file '/root/.pub': No such file or directory
+        (to install the contents of '/root/.pub' anyway, look at the -f option)
+[root@ip-172-31-27-171 ~]# vi /etc/ansible/hosts
+[root@ip-172-31-27-171 ~]# ssh-copy-id root@192.168.1.100
+
+/bin/ssh-copy-id: ERROR: failed to open ID file '/root/.pub': No such file or directory
+        (to install the contents of '/root/.pub' anyway, look at the -f option)
+[root@ip-172-31-27-171 ~]#
+
+1.Adding credentials
+2. Jenkins console opperations fixing issuse
+https://store.docker.com/editions/community/docker-ce-desktop-windows
+http://cygwin.mirrors.pair.com
+https://github.com/asquarezone/packer-templates
+https://www.youtube.com/watch?v=j_8AbtXYqcQ
+http://www.ubuntu.com/download/desktop
+
+releases.ubuntu.com/14.04/
+www.ubuntu.com/download/desktop
+cd  D:\SivaDeva\packer-templates-master> packer build .\ubuntu-14.04-amd64.json
+qemu output will be in this color.
+virtualbox-iso output will be in this color.
+vmware-iso output will be in this color.
+
+Warnings for build 'vmware-iso':
+
+* Your vmx data contains the following variable(s), which Packer normally sets when it ge
+plate. This may cause your build to fail or behave unpredictably: numvcpus, memsize
+
+Build 'qemu' errored: Failed creating Qemu driver: exec: "qemu-system-x86_64": executable
+Build 'vmware-iso' errored: Failed creating VMware driver: Unable to initialize any drive
+
+from each driver are shown below. Please fix at least one driver
+to continue:
+* VMware application not found:
+* VMware application not found:
+* VMware application not found:
+* VMware application not found:
+
+==> virtualbox-iso: Retrieving Guest additions
+    virtualbox-iso: Using file in-place: file:///C:/Program%20Files/Oracle/VirtualBox/VBo
+==> virtualbox-iso: Retrieving ISO
+1 items:  9.05 MiB / 619.00 MiB PS D:\SivaDeva\packer-templates-master>
+PS D:\SivaDeva\packer-templates-master>
+PS D:\SivaDeva\packer-templates-master> D:\SivaDeva\packer-templates-masterD:\SivaDeva\pa
+
+
+
+
+
+
+
